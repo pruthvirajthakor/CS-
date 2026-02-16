@@ -1,0 +1,101 @@
+You are a senior frontend developer and UI/UX designer.
+
+Create a complete, professional, multi-page AI-powered Notes Generator website.
+
+IMPORTANT REQUIREMENTS:
+
+1. Use ONLY:
+   - HTML5
+   - CSS3
+   - Vanilla JavaScript
+   No frameworks (no React, no Bootstrap, no Tailwind).
+
+2. The website must contain 5–6 separate pages:
+   - Home
+   - Generate Notes
+   - Features
+   - How It Works
+   - About
+   - Contact
+
+3. Design Style:
+   - Modern, minimal, dark theme
+   - Futuristic AI look
+   - Glassmorphism effects
+   - Smooth animations
+   - Gradient glowing buttons
+   - Scroll animations
+   - Hover effects
+   - Fully responsive (mobile + desktop)
+   - Clean professional layout
+   - Judges must be impressed visually
+
+4. Home Page:
+   - Hero section with animated headline:
+     "AI Smart Notes Generator"
+   - Subtitle explaining purpose
+   - Call-to-action button (Generate Now)
+   - Animated background (particles or gradient animation)
+
+5. Generate Notes Page:
+   - Topic input field
+   - Subject dropdown
+   - Note type selector (Short / Long / Exam-Oriented)
+   - Generate button
+   - Loading animation
+   - Output section (formatted nicely)
+   - Copy button
+   - Download as PDF button
+   - Include placeholder function for Gemini API integration
+   - Keep API call in a separate JS function
+
+6. Features Page:
+   - 4–6 feature cards
+   - Icons
+   - Hover animation
+   - Scroll reveal effect
+
+7. How It Works Page:
+   - Step-by-step visual explanation
+   - Animated timeline or cards
+   - Explain AI prompt process
+
+8. About Page:
+   - Explain AI usage
+   - Explain how large language models generate content
+   - Professional tone
+
+9. Contact Page:
+   - Contact form (UI only)
+   - Animated inputs
+   - Social links placeholder
+
+10. Code Structure:
+   - Separate files:
+     index.html
+     generate.html
+     features.html
+     how-it-works.html
+     about.html
+     contact.html
+     style.css
+     script.js
+
+11. Animations:
+   - CSS keyframe animations
+   - Smooth fade-in on scroll
+   - Button glow animation
+   - Typing animation effect in output
+
+12. JavaScript:
+   - Add a function for Gemini API fetch
+   - Keep API key placeholder as:
+     const API_KEY = "YOUR_API_KEY_HERE";
+
+13. Make code clean, organized, and well-commented.
+
+14. Make the UI look like a professional AI SaaS product.
+
+15. Ensure everything works locally without backend.
+
+Return full working code for all files.
