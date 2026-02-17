@@ -99,3 +99,7 @@ IMPORTANT REQUIREMENTS:
 15. Ensure everything works locally without backend.
 
 Return full working code for all files.
+
+AIzaSyAw0VXeNzcpxOEWSJ5cQsoHnS8w4mbGAbA
+
+AIzaSyC6qPBwlQzXwAg1XEZ5xY7SbKbuv14GuDY
